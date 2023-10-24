@@ -1,5 +1,7 @@
 # Laboratorio 2
 
+Autores: Irán Medina Jeremy Cordoba Ivannia Fernandez Jesús Rojas
+
 ## 1. Abreviaturas y definiciones
 - **FPGA**: Field Programmable Gate Arrays
 
